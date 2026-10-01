@@ -3958,7 +3958,7 @@
   },
   {
     "year": 2026,
-    "update": "2026 年 9 月",
+    "update": "2026 年 10 月",
     "annualRanking": [
       {
         "ranking": 1,
@@ -4597,7 +4597,7 @@
         "login": "weizhoublue",
         "github_id": 45163302,
         "github_avatar": "https://avatars.githubusercontent.com/u/45163302?v=4",
-        "location": "ShangHai",
+        "location": null,
         "github_name": "weizhoublue"
       },
       {
@@ -4638,7 +4638,7 @@
         "github_id": 35857179,
         "github_avatar": "https://avatars.githubusercontent.com/u/35857179?v=4",
         "location": "Hong Kong",
-        "github_name": "WK"
+        "github_name": "wkw"
       },
       {
         "ranking": 86,
