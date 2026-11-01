@@ -3958,7 +3958,7 @@
   },
   {
     "year": 2026,
-    "update": "2026 年 10 月",
+    "update": "2026 年 11 月",
     "annualRanking": [
       {
         "ranking": 1,
@@ -4221,7 +4221,7 @@
         "login": "pacoxu",
         "github_id": 2010320,
         "github_avatar": "https://avatars.githubusercontent.com/u/2010320?v=4",
-        "location": "Shanghai, China ",
+        "location": null,
         "github_name": "Paco Xu"
       },
       {
@@ -4245,7 +4245,7 @@
         "login": "fengmk2",
         "github_id": 156269,
         "github_avatar": "https://avatars.githubusercontent.com/u/156269?v=4",
-        "location": "Hangzhou, China",
+        "location": "Singapore",
         "github_name": "MK (fengmk2)"
       },
       {
@@ -4309,7 +4309,7 @@
         "login": "antfu",
         "github_id": 11247099,
         "github_avatar": "https://avatars.githubusercontent.com/u/11247099?v=4",
-        "location": "undefined",
+        "location": "Gifu, Japan",
         "github_name": "Anthony Fu"
       },
       {
@@ -4437,7 +4437,7 @@
         "login": "Dragon1573",
         "github_id": 49941141,
         "github_avatar": "https://avatars.githubusercontent.com/u/49941141?v=4",
-        "location": "Shenzhen, Guangdong, Chinese Mainland",
+        "location": "Shenzhen, Chinese Mainland",
         "github_name": "❤是纱雾酱哟～"
       },
       {
@@ -4518,7 +4518,7 @@
         "github_id": 13782141,
         "github_avatar": "https://avatars.githubusercontent.com/u/13782141?v=4",
         "location": "Los Angeles, CA",
-        "github_name": "samzong"
+        "github_name": null
       },
       {
         "ranking": 71,
